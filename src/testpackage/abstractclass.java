@@ -20,7 +20,7 @@ public class abstractclass extends test1 {
 
 	@Override
 	void test1() {
-		System.out.println("iiiiiiiiiiiiiiiincomplete method");
+		System.out.println("Incomplete method");
 		
 	}
 
